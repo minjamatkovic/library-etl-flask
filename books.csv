@@ -1,0 +1,530 @@
+id,title,author,published,genre,cover
+1,To Kill a Mockingbird,Harper Lee,1960,Fiction,to_kill_a_mockingbird.jpg
+2,1984,George Orwell,1949,Dystopian,1984.jpg
+3,Moby Dick,Herman Melville,1851,Adventure,moby_dick.jpg
+4,War and Peace,Leo Tolstoy,1869,Historical,war_and_peace.jpg
+5,The Catcher in the Rye,J.D. Salinger,1951,Coming-of-Age,the_catcher_in_the_rye.jpg
+6,The Alchemist,Paulo Coelho,1988,Adventure,the_alchemist.jpg
+7,Pride and Prejudice,Jane Austen,1813,Romance,pride_and_prejudice.jpg
+8,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,the_great_gatsby.jpg
+9,Brave New World,Aldous Huxley,1932,Dystopian,brave_new_world.jpg
+10,The Odyssey,Homer,-800,Epic,the_odyssey.jpg
+11,The Picture of Dorian Gray,Oscar Wilde,1890,Philosophical,the_picture_of_dorian_gray.jpg
+12,Crime and Punishment,Fyodor Dostoevsky,1866,Philosophical,crime_and_punishment.jpg
+13,The Brothers Karamazov,Fyodor Dostoevsky,1880,Philosophical,the_brothers_karamazov.jpg
+14,The Hobbit,J.R.R. Tolkien,1937,Fantasy,the_hobbit.jpg
+15,Fahrenheit 451,Ray Bradbury,1953,Dystopian,fahrenheit_451.jpg
+16,Catch-22,Joseph Heller,1961,Satire,catch-22.jpg
+17,The Grapes of Wrath,John Steinbeck,1939,Fiction,the_grapes_of_wrath.jpg
+18,The Road,Cormac McCarthy,2006,Post-Apocalyptic,the_road.jpg
+19,Jane Eyre,Charlotte Brontë,1847,Romance,jane_eyre.jpg
+20,Wuthering Heights,Emily Brontë,1847,Gothic,wuthering_heights.jpg
+21,Little Women,Louisa May Alcott,1868,Coming-of-Age,little_women.jpg
+22,The Chronicles of Narnia,C.S. Lewis,1950,Fantasy,the_chronicles_of_narnia.jpg
+23,The Secret Garden,Frances Hodgson Burnett,1911,Children's,the_secret_garden.jpg
+24,The Call of the Wild,Jack London,1903,Adventure,the_call_of_the_wild.jpg
+25,The Scarlet Letter,Nathaniel Hawthorne,1850,Historical Fiction,the_scarlet_letter.jpg
+26,Anna Karenina,Leo Tolstoy,1877,Romance,anna_karenina.jpg
+27,The Handmaid's Tale,Margaret Atwood,1985,Dystopian,the_handmaid's_tale.jpg
+28,The Kite Runner,Khaled Hosseini,2003,Fiction,the_kite_runner.jpg
+29,The Fault in Our Stars,John Green,2012,Young Adult,the_fault_in_our_stars.jpg
+30,A Tale of Two Cities,Charles Dickens,1859,Historical Fiction,a_tale_of_two_cities.jpg
+31,The Alchemist,Paulo Coelho,1988,Adventure,the_alchemist.jpg
+32,The Count of Monte Cristo,Alexandre Dumas,1844,Adventure,the_count_of_monte_cristo.jpg
+33,The Da Vinci Code,Dan Brown,2003,Thriller,the_da_vinci_code.jpg
+34,Siddhartha,Hermann Hesse,1922,Philosophical,siddhartha.jpg
+35,The Sun Also Rises,Ernest Hemingway,1926,Fiction,the_sun_also_rises.jpg
+36,Slaughterhouse-Five,Kurt Vonnegut,1969,Sci-Fi,slaughterhouse-five.jpg
+37,Brave New World,Aldous Huxley,1932,Dystopian,brave_new_world.jpg
+38,The Old Man and the Sea,Ernest Hemingway,1952,Fiction,the_old_man_and_the_sea.jpg
+39,A Clockwork Orange,Anthony Burgess,1962,Dystopian,a_clockwork_orange.jpg
+40,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,Sci-Fi,the_hitchhiker's_guide_to_the_galaxy.jpg
+41,The Bell Jar,Sylvia Plath,1963,Fiction,the_bell_jar.jpg
+42,To the Lighthouse,Virginia Woolf,1927,Fiction,to_the_lighthouse.jpg
+43,The Road,Cormac McCarthy,2006,Post-Apocalyptic,the_road.jpg
+44,Life of Pi,Yann Martel,2001,Fiction,life_of_pi.jpg
+45,The Amazing Adventures of Kavalier & Clay,Michael Chabon,2000,Fiction,the_amazing_adventures_of_kavalier_&_clay.jpg
+46,The Night Circus,Erin Morgenstern,2011,Fantasy,the_night_circus.jpg
+47,Where the Crawdads Sing,Delia Owens,2018,Fiction,where_the_crawdads_sing.jpg
+48,The Martian,Andy Weir,2011,Sci-Fi,the_martian.jpg
+49,The Book Thief,Markus Zusak,2005,Fiction,the_book_thief.jpg
+50,Educated,Tara Westover,2018,Memoir,educated.jpg
+51,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+52,The Glass Castle,Jeannette Walls,2005,Memoir,the_glass_castle.jpg
+53,Becoming,Michelle Obama,2018,Memoir,becoming.jpg
+54,"Thinking,Fast and Slow",Daniel Kahneman,2011,Non-Fiction,"thinking,fast_and_slow.jpg"
+55,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens_a_brief_history_of_humankind.jpg
+56,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,2012,Non-Fiction,the_power_of_habit_why_we_do_what_we_do_in_life_and_business.jpg
+57,The Subtle Art of Not Giving a F*ck,Mark Manson,2016,Non-Fiction,the_subtle_art_of_not_giving_a_fck.jpg
+58,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,2012,Non-Fiction,quiet_the_power_of_introverts_in_a_world_that_can't_stop_talking.jpg
+59,Grit: The Power of Passion and Perseverance,Angela Duckworth,2016,Non-Fiction,grit_the_power_of_passion_and_perseverance.jpg
+60,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+61,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,how_to_win_friends_and_influence_people.jpg
+62,The Four Agreements,Don Miguel Ruiz,1997,Self-Help,the_four_agreements.jpg
+63,Man's Search for Meaning,Viktor E. Frankl,1946,Psychology,man's_search_for_meaning.jpg
+64,Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones,James Clear,2018,Self-Help,atomic_habits_an_easy_&_proven_way_to_build_good_habits_&_break_bad_ones.jpg
+65,Dare to Lead,Brene Brown,2018,Self-Help,dare_to_lead.jpg
+66,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and the Middle Class Do Not,Robert T. Kiyosaki,1997,Personal Finance,rich_dad_poor_dad_what_the_rich_teach_their_kids_about_money_that_the_poor_and_the_middle_class_do_not.jpg
+67,The Total Money Makeover: A Proven Plan for Financial Fitness,Dave Ramsey,2003,Personal Finance,the_total_money_makeover_a_proven_plan_for_financial_fitness.jpg
+68,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,2013,Self-Help,you_are_a_badass_how_to_stop_doubting_your_greatness_and_start_living_an_awesome_life.jpg
+69,Awaken the Giant Within,Tony Robbins,1991,Self-Help,awaken_the_giant_within.jpg
+70,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+72,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+73,The Elements of Style,William Strunk Jr. and E.B. White,1959,Writing,the_elements_of_style.jpg
+74,On Writing: A Memoir of the Craft,Stephen King,2000,Writing,on_writing_a_memoir_of_the_craft.jpg
+75,The War of Art,Steven Pressfield,2002,Writing,the_war_of_art.jpg
+76,The Writing Life,Annie Dillard,1989,Writing,the_writing_life.jpg
+77,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity,the_artist's_way_a_spiritual_path_to_higher_creativity.jpg
+78,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity,big_magic_creative_living_beyond_fear.jpg
+79,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity,steal_like_an_artist_10_things_nobody_told_you_about_being_creative.jpg
+80,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity,the_creative_habit_learn_it_and_use_it_for_life.jpg
+81,The Creative's Guide to Starting a Business,Danny Iny,2014,Entrepreneurship,the_creative's_guide_to_starting_a_business.jpg
+82,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Eric Ries,2011,Entrepreneurship,the_lean_startup_how_today's_entrepreneurs_use_continuous_innovation_to_create_radically_successful_businesses.jpg
+83,"Crushing It!: How Great Entrepreneurs Build Their Business and Influence—and How You Can, Too",Gary Vaynerchuk,2018,Entrepreneurship,
+84,"Zero to One: Notes on Startups, or How to Build the Future",Peter Thiel,2014,Entrepreneurship,"zero_to_one_notes_on_startups,_or_how_to_build_the_future.jpg"
+85,The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers,Ben Horowitz,2014,Entrepreneurship,the_hard_thing_about_hard_things_building_a_business_when_there_are_no_easy_answers.jpg
+86,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why_how_great_leaders_inspire_everyone_to_take_action.jpg
+87,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management,good_to_great_why_some_companies_make_the_leap..._and_others_don't.jpg
+88,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management,the_five_dysfunctions_of_a_team_a_leadership_fable.jpg
+89,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management,
+90,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management,the_advantage_why_organizational_health_trumps_everything_else_in_business.jpg
+91,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management,drive_the_surprising_truth_about_what_motivates_us.jpg
+92,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+93,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why_how_great_leaders_inspire_everyone_to_take_action.jpg
+94,Leaders Eat Last: Why Some Teams Pull Together and Others Don't,Simon Sinek,2014,Leadership,leaders_eat_last_why_some_teams_pull_together_and_others_don't.jpg
+95,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+97,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+98,The Art of Happiness,Dalai Lama,1998,Philosophy,the_art_of_happiness.jpg
+99,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology,"thinking,_fast_and_slow.jpg"
+100,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens_a_brief_history_of_humankind.jpg
+101,The God Delusion,Richard Dawkins,2006,Non-Fiction,the_god_delusion.jpg
+102,The Selfish Gene,Richard Dawkins,1976,Non-Fiction,the_selfish_gene.jpg
+103,The Blind Watchmaker,Richard Dawkins,1986,Non-Fiction,the_blind_watchmaker.jpg
+104,A Brief History of Time,Stephen Hawking,1988,Science,a_brief_history_of_time.jpg
+105,The Universe in a Nutshell,Stephen Hawking,2001,Science,the_universe_in_a_nutshell.jpg
+106,The Grand Design,Stephen Hawking,2010,Science,
+107,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Brian Greene,2004,Science,"the_fabric_of_the_cosmos_space,_time,_and_the_texture_of_reality.jpg"
+108,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science,the_hidden_reality_parallel_universes_and_the_deep_laws_of_the_cosmos.jpg
+109,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science,"the_elegant_universe_superstrings,_hidden_dimensions,_and_the_quest_for_the_ultimate_theory.jpg"
+110,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+111,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction,the_gene_an_intimate_history.jpg
+112,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction,the_emperor_of_all_maladies_a_biography_of_cancer.jpg
+113,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction,the_emperor_of_all_maladies_a_biography_of_cancer.jpg
+114,When Breath Becomes Air,Paul Kalanithi,2016,Memoir,when_breath_becomes_air.jpg
+115,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction,being_mortal_medicine_and_what_matters_in_the_end.jpg
+116,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+117,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+118,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction,"david_and_goliath_underdogs,_misfits,_and_the_art_of_battling_giants.jpg"
+119,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+120,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+121,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+122,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+123,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+124,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction,"david_and_goliath_underdogs,_misfits,_and_the_art_of_battling_giants.jpg"
+125,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+126,The Art of Happiness,Dalai Lama,1998,Philosophy,the_art_of_happiness.jpg
+128,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+129,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity,the_creative_habit_learn_it_and_use_it_for_life.jpg
+130,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity,big_magic_creative_living_beyond_fear.jpg
+131,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity,steal_like_an_artist_10_things_nobody_told_you_about_being_creative.jpg
+132,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity,the_artist's_way_a_spiritual_path_to_higher_creativity.jpg
+133,The Writing Life,Annie Dillard,1989,Writing,the_writing_life.jpg
+134,On Writing: A Memoir of the Craft,Stephen King,2000,Writing,on_writing_a_memoir_of_the_craft.jpg
+135,The War of Art,Steven Pressfield,2002,Writing,the_war_of_art.jpg
+136,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,how_to_win_friends_and_influence_people.jpg
+137,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+138,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why_how_great_leaders_inspire_everyone_to_take_action.jpg
+139,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management,good_to_great_why_some_companies_make_the_leap..._and_others_don't.jpg
+140,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management,the_five_dysfunctions_of_a_team_a_leadership_fable.jpg
+141,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management,the_innovator's_dilemma_when_new_technologies_cause_great_firms_to_fail.jpg
+142,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management,the_advantage_why_organizational_health_trumps_everything_else_in_business.jpg
+143,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management,drive_the_surprising_truth_about_what_motivates_us.jpg
+144,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+145,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology,"thinking,_fast_and_slow.jpg"
+146,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens_a_brief_history_of_humankind.jpg
+147,The Selfish Gene,Richard Dawkins,1976,Non-Fiction,the_selfish_gene.jpg
+148,The God Delusion,Richard Dawkins,2006,Non-Fiction,the_god_delusion.jpg
+149,A Brief History of Time,Stephen Hawking,1988,Science,a_brief_history_of_time.jpg
+150,The Universe in a Nutshell,Stephen Hawking,2001,Science,the_universe_in_a_nutshell.jpg
+151,The Grand Design,Stephen Hawking,2010,Science,
+152,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science,the_hidden_reality_parallel_universes_and_the_deep_laws_of_the_cosmos.jpg
+153,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science,"the_elegant_universe_superstrings,_hidden_dimensions,_and_the_quest_for_the_ultimate_theory.jpg"
+154,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+155,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction,the_gene_an_intimate_history.jpg
+156,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction,
+157,When Breath Becomes Air,Paul Kalanithi,2016,Memoir,when_breath_becomes_air.jpg
+158,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction,being_mortal_medicine_and_what_matters_in_the_end.jpg
+159,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+160,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+161,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction,"david_and_goliath_underdogs,_misfits,_and_the_art_of_battling_giants.jpg"
+162,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+163,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+164,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+165,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+166,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+167,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction,"david_and_goliath_underdogs,_misfits,_and_the_art_of_battling_giants.jpg"
+168,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+169,The Art of Happiness,Dalai Lama,1998,Philosophy,the_art_of_happiness.jpg
+171,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+172,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity,the_creative_habit_learn_it_and_use_it_for_life.jpg
+173,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity,big_magic_creative_living_beyond_fear.jpg
+174,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity,steal_like_an_artist_10_things_nobody_told_you_about_being_creative.jpg
+175,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity,the_artist's_way_a_spiritual_path_to_higher_creativity.jpg
+176,The Writing Life,Annie Dillard,1989,Writing,the_writing_life.jpg
+177,On Writing: A Memoir of the Craft,Stephen King,2000,Writing,on_writing_a_memoir_of_the_craft.jpg
+178,The War of Art,Steven Pressfield,2002,Writing,the_war_of_art.jpg
+179,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,how_to_win_friends_and_influence_people.jpg
+180,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+181,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why_how_great_leaders_inspire_everyone_to_take_action.jpg
+182,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management,good_to_great_why_some_companies_make_the_leap..._and_others_don't.jpg
+183,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management,the_five_dysfunctions_of_a_team_a_leadership_fable.jpg
+184,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management,
+185,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management,the_advantage_why_organizational_health_trumps_everything_else_in_business.jpg
+186,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management,drive_the_surprising_truth_about_what_motivates_us.jpg
+187,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+188,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology,"thinking,_fast_and_slow.jpg"
+189,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens_a_brief_history_of_humankind.jpg
+190,The Selfish Gene,Richard Dawkins,1976,Non-Fiction,the_selfish_gene.jpg
+191,The God Delusion,Richard Dawkins,2006,Non-Fiction,the_god_delusion.jpg
+192,A Brief History of Time,Stephen Hawking,1988,Science,a_brief_history_of_time.jpg
+193,The Universe in a Nutshell,Stephen Hawking,2001,Science,the_universe_in_a_nutshell.jpg
+194,The Grand Design,Stephen Hawking,2010,Science,
+195,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science,the_hidden_reality_parallel_universes_and_the_deep_laws_of_the_cosmos.jpg
+196,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science,"the_elegant_universe_superstrings,_hidden_dimensions,_and_the_quest_for_the_ultimate_theory.jpg"
+197,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+198,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction,the_gene_an_intimate_history.jpg
+199,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction,the_emperor_of_all_maladies_a_biography_of_cancer.jpg
+200,When Breath Becomes Air,Paul Kalanithi,2016,Memoir,when_breath_becomes_air.jpg
+201,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction,being_mortal_medicine_and_what_matters_in_the_end.jpg
+202,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+203,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+204,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction,"david_and_goliath_underdogs,_misfits,_and_the_art_of_battling_giants.jpg"
+205,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+206,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+207,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+208,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+209,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+210,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction,"david_and_goliath_underdogs,_misfits,_and_the_art_of_battling_giants.jpg"
+211,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+212,The Art of Happiness,Dalai Lama,1998,Philosophy,the_art_of_happiness.jpg
+214,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+215,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity,the_creative_habit_learn_it_and_use_it_for_life.jpg
+216,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity,big_magic_creative_living_beyond_fear.jpg
+217,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity,steal_like_an_artist_10_things_nobody_told_you_about_being_creative.jpg
+218,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity,the_artist's_way_a_spiritual_path_to_higher_creativity.jpg
+219,The Writing Life,Annie Dillard,1989,Writing,the_writing_life.jpg
+220,On Writing: A Memoir of the Craft,Stephen King,2000,Writing,on_writing_a_memoir_of_the_craft.jpg
+221,The War of Art,Steven Pressfield,2002,Writing,the_war_of_art.jpg
+222,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,how_to_win_friends_and_influence_people.jpg
+223,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+224,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why_how_great_leaders_inspire_everyone_to_take_action.jpg
+225,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management,good_to_great_why_some_companies_make_the_leap..._and_others_don't.jpg
+226,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management,the_five_dysfunctions_of_a_team_a_leadership_fable.jpg
+227,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management,the_innovator's_dilemma_when_new_technologies_cause_great_firms_to_fail.jpg
+228,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management,the_advantage_why_organizational_health_trumps_everything_else_in_business.jpg
+229,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management,drive_the_surprising_truth_about_what_motivates_us.jpg
+230,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+231,"Thinking, Fast and Slow",Daniel Kahneman,2011,Psychology,"thinking,_fast_and_slow.jpg"
+232,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens_a_brief_history_of_humankind.jpg
+233,The Selfish Gene,Richard Dawkins,1976,Non-Fiction,the_selfish_gene.jpg
+234,The God Delusion,Richard Dawkins,2006,Non-Fiction,the_god_delusion.jpg
+235,A Brief History of Time,Stephen Hawking,1988,Science,a_brief_history_of_time.jpg
+236,The Universe in a Nutshell,Stephen Hawking,2001,Science,the_universe_in_a_nutshell.jpg
+237,The Grand Design,Stephen Hawking,2010,Science,
+238,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science,the_hidden_reality_parallel_universes_and_the_deep_laws_of_the_cosmos.jpg
+239,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,1999,Science,"the_elegant_universe_superstrings,_hidden_dimensions,_and_the_quest_for_the_ultimate_theory.jpg"
+240,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+241,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction,the_gene_an_intimate_history.jpg
+242,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction,the_emperor_of_all_maladies_a_biography_of_cancer.jpg
+243,When Breath Becomes Air,Paul Kalanithi,2016,Memoir,when_breath_becomes_air.jpg
+244,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction,being_mortal_medicine_and_what_matters_in_the_end.jpg
+245,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+246,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+248,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+249,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+250,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+251,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+252,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+254,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+255,The Art of Happiness,Dalai Lama,1998,Philosophy,the_art_of_happiness.jpg
+256,The Art of War,Sun Tzu,5th Century BC,Military,the_art_of_war.jpg
+257,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+258,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity,the_creative_habit_learn_it_and_use_it_for_life.jpg
+259,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity,big_magic_creative_living_beyond_fear.jpg
+260,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity,steal_like_an_artist_10_things_nobody_told_you_about_being_creative.jpg
+261,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity,the_artist's_way_a_spiritual_path_to_higher_creativity.jpg
+262,The Writing Life,Annie Dillard,1989,Writing,the_writing_life.jpg
+263,On Writing: A Memoir of the Craft,Stephen King,2000,Writing,on_writing_a_memoir_of_the_craft.jpg
+264,The War of Art,Steven Pressfield,2002,Writing,the_war_of_art.jpg
+265,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,how_to_win_friends_and_influence_people.jpg
+266,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+267,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why_how_great_leaders_inspire_everyone_to_take_action.jpg
+268,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management,good_to_great_why_some_companies_make_the_leap..._and_others_don't.jpg
+269,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management,the_five_dysfunctions_of_a_team_a_leadership_fable.jpg
+270,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management,the_innovator's_dilemma_when_new_technologies_cause_great_firms_to_fail.jpg
+271,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management,the_advantage_why_organizational_health_trumps_everything_else_in_business.jpg
+272,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management,drive_the_surprising_truth_about_what_motivates_us.jpg
+273,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+275,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens_a_brief_history_of_humankind.jpg
+276,The Selfish Gene,Richard Dawkins,1976,Non-Fiction,the_selfish_gene.jpg
+277,The God Delusion,Richard Dawkins,2006,Non-Fiction,the_god_delusion.jpg
+278,A Brief History of Time,Stephen Hawking,1988,Science,
+279,The Universe in a Nutshell,Stephen Hawking,2001,Science,the_universe_in_a_nutshell.jpg
+280,The Grand Design,Stephen Hawking,2010,Science,
+281,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science,the_hidden_reality_parallel_universes_and_the_deep_laws_of_the_cosmos.jpg
+283,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+284,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction,the_gene_an_intimate_history.jpg
+285,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction,the_emperor_of_all_maladies_a_biography_of_cancer.jpg
+286,When Breath Becomes Air,Paul Kalanithi,2016,Memoir,when_breath_becomes_air.jpg
+287,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction,being_mortal_medicine_and_what_matters_in_the_end.jpg
+288,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+289,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+291,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+292,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+293,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+294,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+295,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+297,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+298,The Art of Happiness,Dalai Lama,1998,Philosophy,the_art_of_happiness.jpg
+300,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+301,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity,the_creative_habit_learn_it_and_use_it_for_life.jpg
+302,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity,big_magic_creative_living_beyond_fear.jpg
+303,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity,steal_like_an_artist_10_things_nobody_told_you_about_being_creative.jpg
+304,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity,the_artist's_way_a_spiritual_path_to_higher_creativity.jpg
+305,The Writing Life,Annie Dillard,1989,Writing,the_writing_life.jpg
+306,On Writing: A Memoir of the Craft,Stephen King,2000,Writing,on_writing_a_memoir_of_the_craft.jpg
+307,The War of Art,Steven Pressfield,2002,Writing,the_war_of_art.jpg
+308,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,how_to_win_friends_and_influence_people.jpg
+309,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+310,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why_how_great_leaders_inspire_everyone_to_take_action.jpg
+311,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management,good_to_great_why_some_companies_make_the_leap..._and_others_don't.jpg
+312,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management,the_five_dysfunctions_of_a_team_a_leadership_fable.jpg
+313,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management,the_innovator's_dilemma_when_new_technologies_cause_great_firms_to_fail.jpg
+314,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management,the_advantage_why_organizational_health_trumps_everything_else_in_business.jpg
+315,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management,drive_the_surprising_truth_about_what_motivates_us.jpg
+316,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,
+318,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens_a_brief_history_of_humankind.jpg
+319,The Selfish Gene,Richard Dawkins,1976,Non-Fiction,
+320,The God Delusion,Richard Dawkins,2006,Non-Fiction,the_god_delusion.jpg
+321,A Brief History of Time,Stephen Hawking,1988,Science,
+322,The Universe in a Nutshell,Stephen Hawking,2001,Science,the_universe_in_a_nutshell.jpg
+323,The Grand Design,Stephen Hawking,2010,Science,
+324,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science,the_hidden_reality_parallel_universes_and_the_deep_laws_of_the_cosmos.jpg
+326,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,
+327,The Gene: An Intimate History,Siddhartha Mukherjee,2016,Non-Fiction,the_gene_an_intimate_history.jpg
+328,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,2010,Non-Fiction,the_emperor_of_all_maladies_a_biography_of_cancer.jpg
+329,When Breath Becomes Air,Paul Kalanithi,2016,Memoir,when_breath_becomes_air.jpg
+330,Being Mortal: Medicine and What Matters in the End,Atul Gawande,2014,Non-Fiction,being_mortal_medicine_and_what_matters_in_the_end.jpg
+331,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+332,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+333,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,2013,Non-Fiction,"david_and_goliath_underdogs,_misfits,_and_the_art_of_battling_giants.jpg"
+334,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,the_tipping_point_how_little_things_can_make_a_big_difference.jpg
+335,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+336,Outliers: The Story of Success,Malcolm Gladwell,2008,Non-Fiction,outliers_the_story_of_success.jpg
+337,Blink: The Power of Thinking Without Thinking,Malcolm Gladwell,2005,Non-Fiction,blink_the_power_of_thinking_without_thinking.jpg
+338,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,2000,Non-Fiction,
+340,The 48 Laws of Power,Robert Greene,1998,Self-Help,the_48_laws_of_power.jpg
+341,The Art of Happiness,Dalai Lama,1998,Philosophy,the_art_of_happiness.jpg
+343,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+344,The Creative Habit: Learn It and Use It for Life,Twyla Tharp,2003,Creativity,the_creative_habit_learn_it_and_use_it_for_life.jpg
+345,Big Magic: Creative Living Beyond Fear,Elizabeth Gilbert,2015,Creativity,big_magic_creative_living_beyond_fear.jpg
+346,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Austin Kleon,2012,Creativity,steal_like_an_artist_10_things_nobody_told_you_about_being_creative.jpg
+347,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,1992,Creativity,the_artist's_way_a_spiritual_path_to_higher_creativity.jpg
+348,The Writing Life,Annie Dillard,1989,Writing,the_writing_life.jpg
+349,On Writing: A Memoir of the Craft,Stephen King,2000,Writing,on_writing_a_memoir_of_the_craft.jpg
+350,The War of Art,Steven Pressfield,2002,Writing,the_war_of_art.jpg
+351,How to Win Friends and Influence People,Dale Carnegie,1936,Self-Help,how_to_win_friends_and_influence_people.jpg
+352,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+353,Start with Why: How Great Leaders Inspire Everyone to Take Action,Simon Sinek,2009,Leadership,start_with_why_how_great_leaders_inspire_everyone_to_take_action.jpg
+354,Good to Great: Why Some Companies Make the Leap... and Others Don't,Jim Collins,2001,Management,good_to_great_why_some_companies_make_the_leap..._and_others_don't.jpg
+355,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,2002,Management,
+356,The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail,Clayton Christensen,1997,Management,
+357,The Advantage: Why Organizational Health Trumps Everything Else in Business,Patrick Lencioni,2012,Management,the_advantage_why_organizational_health_trumps_everything_else_in_business.jpg
+358,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,2009,Management,drive_the_surprising_truth_about_what_motivates_us.jpg
+359,The 7 Habits of Highly Effective People,Stephen R. Covey,1989,Self-Help,the_7_habits_of_highly_effective_people.jpg
+361,Sapiens: A Brief History of Humankind,Yuval Noah Harari,2011,Non-Fiction,sapiens_a_brief_history_of_humankind.jpg
+362,The Selfish Gene,Richard Dawkins,1976,Non-Fiction,the_selfish_gene.jpg
+363,The God Delusion,Richard Dawkins,2006,Non-Fiction,
+364,A Brief History of Time,Stephen Hawking,1988,Science,a_brief_history_of_time.jpg
+365,The Universe in a Nutshell,Stephen Hawking,2001,Science,the_universe_in_a_nutshell.jpg
+366,The Grand Design,Stephen Hawking,2010,Science,
+367,The Hidden Reality: Parallel Universes and the Deep Laws of the Cosmos,Brian Greene,2011,Science,the_hidden_reality_parallel_universes_and_the_deep_laws_of_the_cosmos.jpg
+369,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+370,Think and Grow Rich,Napoleon Hill,1937,Self-Help,think_and_grow_rich.jpg
+371,Atomic Habits,James Clear,2018,Self-Help,
+372,The Road Less Traveled,M. Scott Peck,1978,Self-Help,
+373,Man's Search for Meaning,Victor Frankl,1946,Philosophy,man's_search_for_meaning.jpg
+374,The Man Who Knew Infinity,Robert Kanigel,1991,Biography,
+375,Silent Spring,Rachel Carson,1962,Environmental,
+376,"Guns, Germs, and Steel",Jared Diamond,1997,History,"guns,_germs,_and_steel.jpg"
+377,Collapse: How Societies Choose to Fail or Succeed,Jared Diamond,2005,History,
+378,The Structure of Scientific Revolutions,Thomas S. Kuhn,1962,Science,the_structure_of_scientific_revolutions.jpg
+379,The Origin of Species,Charles Darwin,1859,Science,the_origin_of_species.jpg
+380,The Double Helix,James D. Watson,1968,Science,the_double_helix.jpg
+381,The Emperor's New Mind,Roger Penrose,1989,Science,
+382,Quantum Mechanics: The Theoretical Minimum,Leonard Susskind,2013,Science,quantum_mechanics_the_theoretical_minimum.jpg
+383,The Order of Time,Carlo Rovelli,2017,Science,the_order_of_time.jpg
+384,The Fabric of the Cosmos,Brian Greene,2004,Science,
+385,Seven Brief Lessons on Physics,Carlo Rovelli,2014,Science,
+386,Chaos: Making a New Science,James Gleick,1987,Science,
+387,Physics of the Impossible,Michio Kaku,2008,Science,physics_of_the_impossible.jpg
+388,"The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",Walter Isaacson,2014,Technology,"the_innovators_how_a_group_of_hackers,_geniuses,_and_geeks_created_the_digital_revolution.jpg"
+389,Steve Jobs,Walter Isaacson,2011,Biography,steve_jobs.jpg
+390,"Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",Ashlee Vance,2015,Biography,"elon_musk_tesla,_spacex,_and_the_quest_for_a_fantastic_future.jpg"
+391,Einstein: His Life and Universe,Walter Isaacson,2007,Biography,einstein_his_life_and_universe.jpg
+392,Becoming,Michelle Obama,2018,Memoir,becoming.jpg
+393,Educated,Tara Westover,2018,Memoir,educated.jpg
+394,The Glass Castle,Jeannette Walls,2005,Memoir,the_glass_castle.jpg
+395,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,2010,Non-Fiction,"unbroken_a_world_war_ii_story_of_survival,_resilience,_and_redemption.jpg"
+396,The Wright Brothers,David McCullough,2015,Biography,the_wright_brothers.jpg
+397,Alexander Hamilton,Ron Chernow,2004,Biography,alexander_hamilton.jpg
+398,Grant,Ron Chernow,2017,Biography,grant.jpg
+399,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,2005,History,team_of_rivals_the_political_genius_of_abraham_lincoln.jpg
+400,1776,David McCullough,2005,History,
+401,John Adams,David McCullough,2001,Biography,john_adams.jpg
+402,The Rise and Fall of the Third Reich,William L. Shirer,1960,History,the_rise_and_fall_of_the_third_reich.jpg
+403,Bury My Heart at Wounded Knee,Dee Brown,1970,History,bury_my_heart_at_wounded_knee.jpg
+404,Genghis Khan and the Making of the Modern World,Jack Weatherford,2004,History,genghis_khan_and_the_making_of_the_modern_world.jpg
+405,The Pioneers,David McCullough,2019,History,the_pioneers.jpg
+406,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,Non-Fiction,the_immortal_life_of_henrietta_lacks.jpg
+407,The Sixth Extinction: An Unnatural History,Elizabeth Kolbert,2014,Science,the_sixth_extinction_an_unnatural_history.jpg
+408,A Short History of Nearly Everything,Bill Bryson,2003,Science,a_short_history_of_nearly_everything.jpg
+409,Cosmos,Carl Sagan,1980,Science,cosmos.jpg
+410,Pale Blue Dot: A Vision of the Human Future in Space,Carl Sagan,1994,Science,pale_blue_dot_a_vision_of_the_human_future_in_space.jpg
+411,"The God Particle: If the Universe Is the Answer, What Is the Question?",Leon Lederman,1993,Science,"the_god_particle_if_the_universe_is_the_answer,_what_is_the_question.jpg"
+412,The Demon-Haunted World: Science as a Candle in the Dark,Carl Sagan,1995,Science,the_demon-haunted_world_science_as_a_candle_in_the_dark.jpg
+413,The Greatest Show on Earth: The Evidence for Evolution,Richard Dawkins,2009,Science,the_greatest_show_on_earth_the_evidence_for_evolution.jpg
+414,The Social Contract,Jean-Jacques Rousseau,1762,Philosophy,the_social_contract.jpg
+415,The Prince,Niccolò Machiavelli,1532,Politics,the_prince.jpg
+416,On Liberty,John Stuart Mill,1859,Philosophy,on_liberty.jpg
+417,The Wealth of Nations,Adam Smith,1776,Economics,the_wealth_of_nations.jpg
+418,Das Kapital,Karl Marx,1867,Economics,
+419,The Communist Manifesto,Karl Marx and Friedrich Engels,1848,Politics,the_communist_manifesto.jpg
+420,Brave New World,Aldous Huxley,1932,Dystopian,brave_new_world.jpg
+421,Fahrenheit 451,Ray Bradbury,1953,Dystopian,fahrenheit_451.jpg
+422,Animal Farm,George Orwell,1945,Dystopian,animal_farm.jpg
+423,A Clockwork Orange,Anthony Burgess,1962,Dystopian,a_clockwork_orange.jpg
+424,The Road,Cormac McCarthy,2006,Dystopian,the_road.jpg
+425,The Handmaid's Tale,Margaret Atwood,1985,Dystopian,the_handmaid's_tale.jpg
+426,Oryx and Crake,Margaret Atwood,2003,Dystopian,oryx_and_crake.jpg
+427,The Hunger Games,Suzanne Collins,2008,Dystopian,the_hunger_games.jpg
+428,Mockingjay,Suzanne Collins,2010,Dystopian,mockingjay.jpg
+429,The Maze Runner,James Dashner,2009,Dystopian,the_maze_runner.jpg
+430,Divergent,Veronica Roth,2011,Dystopian,divergent.jpg
+431,The Giver,Lois Lowry,1993,Dystopian,the_giver.jpg
+432,The Little Prince,Antoine de Saint-Exupéry,1943,Fiction,the_little_prince.jpg
+433,The Phantom Tollbooth,Norton Juster,1961,Fantasy,the_phantom_tollbooth.jpg
+434,Where the Wild Things Are,Maurice Sendak,1963,Children's,where_the_wild_things_are.jpg
+435,Charlotte's Web,E.B. White,1952,Children's,charlotte's_web.jpg
+436,The Secret Garden,Frances Hodgson Burnett,1911,Children's,the_secret_garden.jpg
+437,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy,harry_potter_and_the_sorcerer's_stone.jpg
+438,Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,Fantasy,harry_potter_and_the_chamber_of_secrets.jpg
+439,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,Fantasy,harry_potter_and_the_prisoner_of_azkaban.jpg
+440,The Hobbit,J.R.R. Tolkien,1937,Fantasy,the_hobbit.jpg
+441,The Fellowship of the Ring,J.R.R. Tolkien,1954,Fantasy,the_fellowship_of_the_ring.jpg
+442,The Two Towers,J.R.R. Tolkien,1954,Fantasy,
+443,The Return of the King,J.R.R. Tolkien,1955,Fantasy,the_return_of_the_king.jpg
+444,The Catcher in the Rye,J.D. Salinger,1951,Fiction,the_catcher_in_the_rye.jpg
+445,The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,the_great_gatsby.jpg
+446,To Kill a Mockingbird,Harper Lee,1960,Fiction,
+447,1984,George Orwell,1949,Dystopian,
+448,War and Peace,Leo Tolstoy,1869,Historical,war_and_peace.jpg
+449,Moby Dick,Herman Melville,1851,Adventure,moby_dick.jpg
+450,Pride and Prejudice,Jane Austen,1813,Romance,pride_and_prejudice.jpg
+451,Emma,Jane Austen,1815,Romance,emma.jpg
+452,Little Women,Louisa May Alcott,1868,Fiction,little_women.jpg
+453,Jane Eyre,Charlotte Brontë,1847,Fiction,jane_eyre.jpg
+454,Wuthering Heights,Emily Brontë,1847,Fiction,wuthering_heights.jpg
+455,A Tale of Two Cities,Charles Dickens,1859,Historical,a_tale_of_two_cities.jpg
+456,The Count of Monte Cristo,Alexandre Dumas,1844,Adventure,the_count_of_monte_cristo.jpg
+457,Dracula,Bram Stoker,1897,Horror,dracula.jpg
+458,Frankenstein,Mary Shelley,1818,Horror,
+459,The Metamorphosis,Franz Kafka,1915,Fiction,the_metamorphosis.jpg
+460,Crime and Punishment,Fyodor Dostoevsky,1866,Philosophy,
+461,The Brothers Karamazov,Fyodor Dostoevsky,1880,Philosophy,the_brothers_karamazov.jpg
+462,The Idiot,Fyodor Dostoevsky,1869,Philosophy,the_idiot.jpg
+463,Anna Karenina,Leo Tolstoy,1877,Romance,anna_karenina.jpg
+464,Les Misérables,Victor Hugo,1862,Historical,les_misérables.jpg
+465,The Iliad,Homer,8th Century BC,Classics,the_iliad.jpg
+466,The Odyssey,Homer,8th Century BC,Classics,
+467,The Aeneid,Virgil,1st Century BC,Classics,the_aeneid.jpg
+468,Inferno,Dante Alighieri,1320,Classics,inferno.jpg
+469,Paradise Lost,John Milton,1667,Classics,
+470,Don Quixote,Miguel de Cervantes,1605,Classics,
+471,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,Magical Realism,
+472,Love in the Time of Cholera,Gabriel Garcia Marquez,1985,Romance,love_in_the_time_of_cholera.jpg
+473,The House of the Spirits,Isabel Allende,1982,Magical Realism,
+474,The Unbearable Lightness of Being,Milan Kundera,1984,Fiction,the_unbearable_lightness_of_being.jpg
+475,Life of Pi,Yann Martel,2001,Adventure,
+476,Shantaram,Gregory David Roberts,2003,Fiction,shantaram.jpg
+477,The Kite Runner,Khaled Hosseini,2003,Fiction,
+478,A Thousand Splendid Suns,Khaled Hosseini,2007,Fiction,a_thousand_splendid_suns.jpg
+479,And the Mountains Echoed,Khaled Hosseini,2013,Fiction,and_the_mountains_echoed.jpg
+480,The Book Thief,Markus Zusak,2005,Historical,the_book_thief.jpg
+481,The Girl with the Dragon Tattoo,Stieg Larsson,2005,Mystery,the_girl_with_the_dragon_tattoo.jpg
+482,Gone Girl,Gillian Flynn,2012,Mystery,gone_girl.jpg
+483,The Da Vinci Code,Dan Brown,2003,Mystery,the_da_vinci_code.jpg
+484,Angels & Demons,Dan Brown,2000,Mystery,angels_&_demons.jpg
+485,The Lovely Bones,Alice Sebold,2002,Fiction,the_lovely_bones.jpg
+486,The Girl on the Train,Paula Hawkins,2015,Thriller,the_girl_on_the_train.jpg
+487,Big Little Lies,Liane Moriarty,2014,Thriller,big_little_lies.jpg
+488,Sharp Objects,Gillian Flynn,2006,Thriller,sharp_objects.jpg
+489,In Cold Blood,Truman Capote,1966,True Crime,in_cold_blood.jpg
+490,Helter Skelter,Vincent Bugliosi,1974,True Crime,helter_skelter.jpg
+491,I Know Why the Caged Bird Sings,Maya Angelou,1969,Memoir,i_know_why_the_caged_bird_sings.jpg
+492,The Bell Jar,Sylvia Plath,1963,Fiction,the_bell_jar.jpg
+493,Catch-22,Joseph Heller,1961,Fiction,catch-22.jpg
+494,Slaughterhouse-Five,Kurt Vonnegut,1969,Fiction,slaughterhouse-five.jpg
+495,The Grapes of Wrath,John Steinbeck,1939,Fiction,the_grapes_of_wrath.jpg
+496,East of Eden,John Steinbeck,1952,Fiction,east_of_eden.jpg
+497,Of Mice and Men,John Steinbeck,1937,Fiction,of_mice_and_men.jpg
+479,Cosmos,Carl Sagan,1980,Space Exploration,cosmos.jpg
+480,The Right Stuff,Tom Wolfe,1979,Space Exploration,the_right_stuff.jpg
+481,An Astronaut's Guide to Life on Earth,Chris Hadfield,2013,Space Exploration,an_astronaut's_guide_to_life_on_earth.jpg
+482,Apollo 13, Jeffrey Kluger & James Lovell,1994, Space Exploration,apollo_13.jpg
+483,"Endurance: A Year in Space, A Lifetime of Discovery", Scott Kelly,2017, Space Exploration,"endurance_a_year_in_space,_a_lifetime_of_discovery.jpg"
+484,The Martian, Andy Weir,2011, Space Exploration,the_martian.jpg
+485,Failure Is Not an Option, Gene Kranz,2000, Space Exploration,failure_is_not_an_option.jpg
+486,Rocket Men, Robert Kurson,2018, Space Exploration,rocket_men.jpg
+487,Hidden Figures, Margot Lee Shetterly,2016, Space Exploration,hidden_figures.jpg
+488, The Overview Effect, Frank White,1987, Space Exploration,the_overview_effect.jpg
+489,The Case for Mars, Robert Zubrin,1996, Space Exploration,the_case_for_mars.jpg
+490,The Right Kind of Crazy, Adam Steltzner,2016, Space Exploration,the_right_kind_of_crazy.jpg
+491,Wanderers, Robinson Wells,2021, Space Exploration,wanderers.jpg
+492,The Last Man on the Moon, Eugene Cernan,1999, Space Exploration,the_last_man_on_the_moon.jpg
+493,Riding Rockets, Mike Mullane,2006, Space Exploration,
+494,Lost Moon, Jeffrey Kluger & James Lovell,1994, Space Exploration,lost_moon.jpg
+495,Moon Shot, Alan Shepard & Deke Slayton,1994, Space Exploration,moon_shot.jpg
+496,Packing for Mars, Mary Roach,2010, Space Exploration,packing_for_mars.jpg
+497,A Man on the Moon, Andrew Chaikin,1994, Space Exploration,a_man_on_the_moon.jpg
+498,Chasing Space, Leland Melvin,2017, Space Exploration,
+499,Rocket Boys, Homer Hickam,1998, Space Exploration,rocket_boys.jpg
+500,Beyond Earth, Charles Wohlforth & Amanda Hendrix,2016, Space Exploration,beyond_earth.jpg
+501,The Sky Below, Scott Parazynski,2017, Space Exploration,the_sky_below.jpg
+502,Astrophysics for People in a Hurry, Neil deGrasse Tyson,2017, Space Exploration,astrophysics_for_people_in_a_hurry.jpg
+503,Moonwalk, Michael Jackson,1988, Space Exploration,moonwalk.jpg
+504,The Apollo Murders, Chris Hadfield,2021, Space Exploration,the_apollo_murders.jpg
+505,Space Chronicles, Neil deGrasse Tyson,2012, Space Exploration,space_chronicles.jpg
+506,The Orbital Perspective, Ron Garan,2015, Space Exploration,
+507,The Moon Is a Harsh Mistress, Robert A. Heinlein,1966, Space Exploration,the_moon_is_a_harsh_mistress.jpg
+508,The Future of Humanity, Michio Kaku,2018, Space Exploration,
+509,How We Got to the Moon, John Rocco,2020, Space Exploration,how_we_got_to_the_moon.jpg
+510,Mission to Mars, Buzz Aldrin,2013, Space Exploration,mission_to_mars.jpg
+511,Apollo 8, Jeffrey Kluger,2017, Space Exploration,
+512,First Man, James R. Hansen,2005, Space Exploration,first_man.jpg
+513,Infinite Worlds, Michael Carroll,2015, Space Exploration,infinite_worlds.jpg
+514,Spaceman, Mike Massimino,2016, Space Exploration,spaceman.jpg
+515,Mars Direct, Robert Zubrin,2013, Space Exploration,mars_direct.jpg
+516,The Infinite View, Ellen Mahoney,2015, Space Exploration,
+517,The New Right Stuff, Loretta Hidalgo Whitesides,2020, Space Exploration,the_new_right_stuff.jpg
+518,Apollo to the Moon, Teasel Muir-Harmony,2018, Space Exploration,apollo_to_the_moon.jpg
+519,Mission Control, David Carey,2006, Space Exploration,mission_control.jpg
+520,Into That Silent Sea, Francis French,2007, Space Exploration,into_that_silent_sea.jpg
+521,Rocket Science for Babies, Chris Ferrie,2013, Space Exploration,rocket_science_for_babies.jpg
+522,The Interstellar Age, Jim Bell,2015, Space Exploration,the_interstellar_age.jpg
+523,Our Cosmic Origins, Armand Delsemme,1998, Space Exploration,our_cosmic_origins.jpg
+524,The Race, James Schefter,1999, Space Exploration,the_race.jpg
+525,Apollo 11, David Whitehouse,2019, Space Exploration,apollo_11.jpg
+526,Countdown, Alan Weisman,2014, Space Exploration,countdown.jpg
+527,Rise of the Rocket Girls, Nathalia Holt,2016, Space Exploration,rise_of_the_rocket_girls.jpg
+528,Moonbound, Jonathan Fetter-Vorm,2019, Space Exploration,moonbound.jpg
